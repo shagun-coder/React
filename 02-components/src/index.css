@@ -1,0 +1,16 @@
+body{
+  height:100%;
+  width:100%;
+}
+.card{
+ background-color:pink;
+ border-radius:10px;
+ margin:10px;
+
+}
+.NavBar{
+background-color: rgb(241, 217, 221);
+ 
+  margin: 5px;
+  padding :20px;
+}
